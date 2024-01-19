@@ -15,5 +15,5 @@ bicycle_rental = pd.DataFrame(raw_data['data']['list'])
 timestamp_milliseconds = raw_data['currentTime'] / 1000  # Convert milliseconds to seconds
 formatted_date_time = datetime.utcfromtimestamp(timestamp_milliseconds).strftime('%Y-%m-%d-%H-%M')
 
-bicycle_rental.to_csv('bicycle_rental_data_' + str(formatted_date_time) + '.csv',
+bicycle_rental.to_csv(f'bicycle_rental_data_{formatted_date_time}.csv',
                       index=False)
