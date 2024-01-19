@@ -1,5 +1,5 @@
 {
-    "currentTime": 1705654575842,
+    "currentTime": 1705654647320,
     "version": 3,
     "status": "OK",
     "code": 200,
@@ -131,7 +131,7 @@
                 "name": "Hajd\u00fa utca - Szegedi \u00fat",
                 "code": "1323",
                 "type": "stele",
-                "bikes": 3,
+                "bikes": 2,
                 "spaces": 999,
                 "style": {
                     "icon": {
@@ -166,6 +166,20 @@
                 "style": {
                     "icon": {
                         "name": "vehicle-rental/mol-bubi"
+                    }
+                }
+            },
+            {
+                "id": "347909968",
+                "lat": 47.427351,
+                "lon": 19.059418,
+                "name": "861208",
+                "code": "BIKE",
+                "bikes": 1,
+                "spaces": 999,
+                "style": {
+                    "icon": {
+                        "name": "vehicle-rental/mol-bubi-floating"
                     }
                 }
             },
@@ -255,6 +269,20 @@
                 "style": {
                     "icon": {
                         "name": "vehicle-rental/mol-bubi"
+                    }
+                }
+            },
+            {
+                "id": "347909937",
+                "lat": 47.531022,
+                "lon": 19.075187,
+                "name": "860128",
+                "code": "BIKE",
+                "bikes": 1,
+                "spaces": 999,
+                "style": {
+                    "icon": {
+                        "name": "vehicle-rental/mol-bubi-floating"
                     }
                 }
             },
@@ -498,6 +526,20 @@
                 }
             },
             {
+                "id": "347909495",
+                "lat": 47.510613,
+                "lon": 19.062311,
+                "name": "861984",
+                "code": "BIKE",
+                "bikes": 1,
+                "spaces": 999,
+                "style": {
+                    "icon": {
+                        "name": "vehicle-rental/mol-bubi-floating"
+                    }
+                }
+            },
+            {
                 "id": "148123047",
                 "lat": 47.510841,
                 "lon": 19.09089,
@@ -564,7 +606,7 @@
                 "name": "Nagyv\u00e1rad t\u00e9r M - V\u00e1g\u00f3h\u00edd utca",
                 "code": "0919",
                 "type": "stele",
-                "bikes": 16,
+                "bikes": 15,
                 "spaces": 999,
                 "style": {
                     "icon": {
@@ -801,7 +843,7 @@
                 "name": "II. J\u00e1nos P\u00e1l P\u00e1pa t\u00e9r M",
                 "code": "0811",
                 "type": "stele",
-                "bikes": 3,
+                "bikes": 2,
                 "spaces": 999,
                 "style": {
                     "icon": {
@@ -1815,11 +1857,25 @@
                 "name": "Nyugati t\u00e9r",
                 "code": "0611",
                 "type": "stele",
-                "bikes": 2,
+                "bikes": 3,
                 "spaces": 999,
                 "style": {
                     "icon": {
                         "name": "vehicle-rental/mol-bubi"
+                    }
+                }
+            },
+            {
+                "id": "347909797",
+                "lat": 47.489413,
+                "lon": 19.062069,
+                "name": "860771",
+                "code": "BIKE",
+                "bikes": 1,
+                "spaces": 999,
+                "style": {
+                    "icon": {
+                        "name": "vehicle-rental/mol-bubi-floating"
                     }
                 }
             },
@@ -1904,7 +1960,7 @@
                 "name": "Haj\u00f3s Alfr\u00e9d Uszoda",
                 "code": "1308",
                 "type": "stele",
-                "bikes": 22,
+                "bikes": 21,
                 "spaces": 999,
                 "style": {
                     "icon": {
@@ -2109,20 +2165,6 @@
                 "lat": 47.492604,
                 "lon": 19.053044,
                 "name": "861129",
-                "code": "BIKE",
-                "bikes": 1,
-                "spaces": 999,
-                "style": {
-                    "icon": {
-                        "name": "vehicle-rental/mol-bubi-floating"
-                    }
-                }
-            },
-            {
-                "id": "347555446",
-                "lat": 47.426867,
-                "lon": 19.059498,
-                "name": "861208",
                 "code": "BIKE",
                 "bikes": 1,
                 "spaces": 999,
@@ -3082,6 +3124,20 @@
                 }
             },
             {
+                "id": "347909633",
+                "lat": 47.494929,
+                "lon": 19.077831,
+                "name": "860435",
+                "code": "BIKE",
+                "bikes": 1,
+                "spaces": 999,
+                "style": {
+                    "icon": {
+                        "name": "vehicle-rental/mol-bubi-floating"
+                    }
+                }
+            },
+            {
                 "id": "42990684",
                 "lat": 47.475984,
                 "lon": 19.048491,
@@ -3133,7 +3189,7 @@
                 "name": "Szondi utca \u2013 Bajza utca",
                 "code": "0619",
                 "type": "stele",
-                "bikes": 4,
+                "bikes": 5,
                 "spaces": 999,
                 "style": {
                     "icon": {
