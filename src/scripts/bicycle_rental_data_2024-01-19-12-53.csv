@@ -1,0 +1,233 @@
+id,lat,lon,name,code,type,bikes,spaces,style
+42711896,47.51032,19.028615,Millenáris,0213,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347962837,47.509107,19.054976,860351,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990800,47.475277,19.061092,Pázmány Péter sétány - Északi tömb,1118,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990803,47.52874,19.069095,Kassák Lajos utca,1321,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990804,47.52551,19.088246,Rákosrendező vasútállomás,1322,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990801,47.469366,19.059271,Infopark - aluljáró,1119,stele,22,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990802,47.530329,19.080443,Béke tér,1320,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990807,47.531066,19.076295,Hajdú utca - Szegedi út,1323,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990805,47.53345,19.07375,Pap Károly utca,1324,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990806,47.52246,19.082262,Vágány utca-Róbert Károly körút,1402,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+276795183,47.471656,19.078868,Nádasdy utca (játszótér),0923,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148121871,47.541625,19.040489,Flórián tér,0308,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347980032,47.490307,19.066662,862283,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990598,47.503424,19.039714,Szilágyi Dezső tér,0102,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990596,47.506472,19.039307,Batthyány tér,0101,stele,18,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347831016,47.426538,19.059673,860955,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+347942311,47.473684,19.063369,860894,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+221387934,47.467942,19.076235,Budapest Park,0920,stele,16,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+276791372,47.475902,19.077467,Haller utca – Mester utca,0922,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990821,47.477403,19.084675,Haller utca - Tűzoltó utca,0915,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990701,47.506461,19.060056,Jókai utca - Zichy Jenő utca,0608,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990822,47.469193,19.088734,Ferencváros vasútállomás - Fék utca,0916,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122516,47.53888,19.040809,Kiscelli utca - Pacsirtamező utca,0310,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+276788631,47.481873,19.068758,Mester utca - Ferenc körút,0921,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990704,47.498735,19.059477,Gozsdu udvar,0701,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990825,47.48351,19.07207,Liliom utca - Tűzoltó utca,0918,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75853903,47.471175,19.029523,Csóka utca - Bogyó utca,1121,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990705,47.49843,19.057272,Rumbach Sebestyén utca - BKK,0709,stele,17,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990826,47.48296,19.07926,Semmelweis Klinikák M,0813,stele,25,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42723985,47.468217,19.058447,Budapart Gate,1120,stele,26,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990703,47.489731,19.061387,Kálvin tér,0905,stele,16,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990824,47.47913,19.080393,Kerekerdő Park,0917,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990708,47.503569,19.06556,Teréz körút - Király utca,0601,stele,14,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148123047,47.510841,19.09089,Zichy Géza utca – Ajtósi Dürer sor,1405,stele,20,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990707,47.499858,19.025488,Déli pályaudvar,0105,stele,22,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347973615,47.469871,19.059444,860206,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+148116996,47.539901,19.046625,Szentlélek tér H,0307,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75859340,47.470691,19.045504,Csonka János tér,1128,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990810,47.4773,19.09093,Nagyvárad tér M - Vágóhíd utca,0919,stele,14,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990811,47.485577,19.085178,Tömő utca - Illés utca,0814,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990814,47.479537,19.089268,Nagyvárad tér M - NKE,0817,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+131983784,47.496366,19.068476,Blaha Lujza tér M - Márkus Emília utca,0824,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990812,47.483218,19.091532,Diószegi Sámuel utca - Elnök utca,0815,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990813,47.47895,19.09461,Szenes Iván tér,0816,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990818,47.47109,19.10987,Ecseri út M,0913,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+42990819,47.46877,19.11683,Pöttyös utca M,0914,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990816,47.482992,19.084872,Ludovika tér,0818,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347926023,47.484049,19.059793,861394,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+347987205,47.507227,19.02464,860284,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+75854184,47.472731,19.033755,Karolina út - Tétényi út,1123,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75859197,47.468624,19.029269,Fraknó utca - Bánk Bán utca,1127,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347974971,47.513231,19.057056,862088,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+347918199,47.486458,19.06016,860697,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990601,47.491279,19.045116,Döbrentei tér,0104,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990722,47.489343,19.075943,Horváth Mihály tér,0810,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990723,47.495046,19.077116,II. János Pál Pápa tér M,0811,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347929081,47.427009,19.059682,861208,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990721,47.512439,19.063875,Ferdinánd híd - Podmaniczky utca,0613,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990726,47.475485,19.041275,Kosztolányi Dezső tér,1111,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990606,47.497586,19.040916,Clark Ádám tér,0103,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990727,47.479228,19.055527,Bertalan Lajos utca - Stoczek utca,1112,stele,18,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990603,47.510375,19.034371,Horvát utca,0202,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990724,47.474296,19.047181,Újbuda-központ M,1109,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990604,47.515002,19.039806,Margit híd - Buda,0201,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990725,47.478589,19.040798,Villányi út - Tas vezér utca,1110,stele,14,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347968978,47.5012,19.056518,860199,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990609,47.507856,19.027065,Széna tér,0204,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990728,47.482587,19.030513,Villányi út - Karolina út,1113,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990729,47.487812,19.024279,BAH csomópont,1201,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347917655,47.495404,19.050953,860379,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+75854073,47.46861,19.024456,Szent Gellért-templom,1122,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+211924055,47.50815,19.094677,Stefánia út - Thököly út,1407,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347915914,47.505991,19.062171,862024,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990711,47.512197,19.038255,Bem József tér,0203,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990716,47.496369,19.033605,Krisztina tér,0106,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990714,47.498218,19.047378,Eötvös tér,0509,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+42990719,47.509867,19.026453,Millenáris park - Fény utca,0208,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990717,47.519429,19.038141,Császár - Komjádi Uszoda,0205,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990718,47.508345,19.023556,Fény utcai piac,0206,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+74881699,47.493005,19.067527,Bródy Sándor utca - Horánszky utca,0823,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+126947959,47.505411,19.066627,Hunyadi tér,0616,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122949,47.512132,19.085236,Olof Palme sétány - Dvořák sétány,1404,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990740,47.514038,19.036823,Margit körút - Tölgyfa utca,0209,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990620,47.497854,19.053549,Deák tér,0518,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990741,47.48164,19.073832,Ferenc tér,0906,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990623,47.494618,19.055872,Vitkovics Mihály utca - Városház utca,0512,stele,33,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990744,47.506943,19.025563,Széll Kálmán tér,0210,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990624,47.491653,19.05297,Március 15. tér,0513,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990745,47.524468,19.037193,Zsigmond tér,0212,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990622,47.495988,19.048818,Vigadó tér,0511,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122835,47.48966,19.090762,Orczy tér,0825,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990627,47.497068,19.055121,Városháza Park,0517,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990748,47.527413,19.03914,Szépvölgyi út H,0302,stele,16,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990749,47.533661,19.035455,Bécsi út - Óbudai Egyetem,0303,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990625,47.491297,19.058243,Károlyi utca,0514,stele,14,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990746,47.507766,19.035112,Csalogány utca - Medve utca,0211,stele,20,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990626,47.487151,19.057213,Fővám tér,0515,stele,14,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990747,47.528003,19.038593,Kolosy tér,0301,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347942486,47.490333,19.066333,862045,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990629,47.492537,19.056618,Ferenciek tere,0516,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+74880493,47.493566,19.082657,Teleki László tér,0820,stele,15,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+345488331,47.494262,19.068631,861014,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+211924192,47.51859,19.087629,Kacsóh Pongrác út,1409,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990730,47.485668,19.07468,Corvin sétány,0812,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990733,47.51965,19.061311,Váci út-Bulcsú utca,1306,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990613,47.506943,19.054853,Bajcsy-Zsilinszky út - Kálmán Imre utca,0503,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990734,47.52487,19.063146,Dózsa György út M,1307,stele,20,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990610,47.508585,19.048212,Szalay utca - Falk Miksa utca,0502,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990731,47.495263,19.023986,Alkotás utca - Márvány utca,0107,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990611,47.511893,19.051419,Szent István körút - Vígszínház,0501,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990616,47.502895,19.051328,Szabadság tér,0506,stele,17,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990737,47.483351,19.067792,Bakáts tér,0908,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990617,47.500761,19.047241,Akadémia,0507,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990735,47.510853,19.032483,Mechwart liget,0207,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990615,47.505421,19.04871,Vécsey utca,0504,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990736,47.480799,19.077244,SOTE - Vendel utca,0907,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+276793348,47.475139,19.070411,Haller utca - Soroksári út,0924,stele,15,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+74881572,47.486917,19.080071,Szigony utca - Práter utca,0822,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347961312,47.509049,19.055062,861546,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990618,47.499155,19.0543,Erzsébet tér,0508,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+74880580,47.488648,19.084572,Kálvária tér,0821,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+211924144,47.511301,19.098471,Zugló vasútállomás,1408,stele,16,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990770,47.538029,19.068907,Forgách utca M,1312,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990642,47.511136,19.080334,Városligeti fasor - Dózsa György út,0612,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990640,47.509675,19.055309,Nyugati tér,0611,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990645,47.50449,19.085408,Garay tér,0703,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990646,47.500268,19.063704,Klauzál tér,0704,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990767,47.535935,19.052846,Zenélőkút,1310,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347918837,47.489453,19.062051,861876,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990643,47.507918,19.084164,Dózsa György út - Dembinszky utca,0702,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990764,47.519842,19.043979,Hajós Alfréd Uszoda,1308,stele,20,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990765,47.527594,19.047085,Palatinus Strand,1309,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990647,47.500605,19.068403,Erzsébet körút - Wesselényi utca,0705,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+42990768,47.538297,19.061236,Duna Aréna,1311,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990648,47.501482,19.075291,Rózsák tere,0706,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122694,47.545698,19.033287,Óbudai rendelőintézet,0313,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990630,47.514237,19.076664,Hősök tere,0602,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990751,47.540064,19.030831,Szent Margit Kórház,0305,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990631,47.511266,19.057492,Nyugati pályaudvar,0603,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990752,47.538999,19.035868,Kiscelli utca - Zápor utca,0306,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122565,47.541775,19.043714,Kórház utca - Polgár utca,0311,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990750,47.532306,19.040658,Lajos utca - Nagyszombat utca,0304,stele,16,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990634,47.507744,19.059552,Teréz körút - Szondi utca,0605,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990755,47.490471,19.018718,Csörsz utca - MOM Kulturális Központ,1203,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990635,47.507791,19.072899,Lövölde tér,0606,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990756,47.508766,19.017409,Városmajor - Nyúl utca,1204,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990632,47.509295,19.069101,Kodály körönd,0604,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990754,47.490413,19.024158,MOM Park,1202,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+42990759,47.509668,19.008971,Szent János Kórház,1206,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990639,47.500688,19.056725,Andrássy út - Káldy Gyula utca,0610,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990636,47.505758,19.063833,Oktogon,0607,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990757,47.509617,19.012699,Szilágyi Erzsébet fasor - Fogaskerekű,1205,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990637,47.503428,19.060796,Andrássy út - Nagymező utca,0609,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+126951990,47.510379,19.064032,Szondi utca – Izabella utca,0618,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347987502,47.489453,19.069658,862391,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+75859615,47.467438,19.043823,Hauszmann Alajos utca - Fehérvári út,1130,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990791,47.496162,19.05998,Károly körút (Astoria M) - Zsinagóga,0712,stele,21,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990792,47.485182,19.064815,Ráday utca - Kinizsi utca,0911,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122908,47.514566,19.079206,Városligeti Műjégpálya és Csónakázótó,1403,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347939797,47.484009,19.059842,860684,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990790,47.503625,19.079058,Bethlen Gábor tér,0711,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990663,47.489746,19.066531,Mikszáth Kálmán tér,0807,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990784,47.474918,19.099345,Népliget M (buszpályaudvar),0910,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990664,47.500902,19.083112,Keleti pályaudvar,0808,stele,17,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990782,47.529021,19.065115,Váci út - Süllő utca,1319,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990783,47.512796,19.057693,Westend,0614,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+42990667,47.48482,19.05974,Corvinus Egyetem,0903,stele,19,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990788,47.472909,19.072437,MILL Park,0912,stele,15,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990789,47.502238,19.071814,Almássy tér,0710,stele,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990665,47.496338,19.070423,Blaha Lujza tér M,0809,stele,23,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990666,47.486404,19.065662,Markusovszky tér,0901,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347911508,47.50844,19.060162,861984,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+347813438,47.495556,19.059793,861397,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+211924274,47.500408,19.107895,Papp László Budapest Sportaréna,1410,stele,19,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75859068,47.467985,19.034145,Szent Imre Kórház,1126,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990660,47.489554,19.070501,József körút - Baross utca,0806,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990652,47.497039,19.062073,Wesselényi utca - Síp utca,0708,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990653,47.495827,19.066732,Gyulai Pál utca - Rákóczi út,0801,stele,24,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990774,47.531509,19.066708,Árpád-híd M-József Attila Színház,1314,stele,20,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122103,47.534071,19.044092,Tímár utca H,0309,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347908212,47.471716,19.029136,861793,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990650,47.49814,19.065528,Kéthly Anna tér,0707,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+42990771,47.533262,19.066386,Göncz Árpád Városközpont,1313,stele,25,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990777,47.535023,19.060121,Népfürdő utca - Dunavirág utca,1317,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990778,47.521316,19.053297,Gogol utca - Pozsonyi utca,1318,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990775,47.529372,19.060239,Párkány utca - Viza utca,1315,stele,14,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990655,47.494215,19.060351,Astoria,0802,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990776,47.525518,19.056848,Kárpát utca - Tisza utca,1316,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990658,47.492755,19.071311,Rákóczi tér,0804,stele,15,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990779,47.468982,19.070388,MÜPA-Nemzeti Színház H,0909,stele,6,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990659,47.491961,19.062331,Bródy Sándor utca - Múzeum körút,0805,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347900171,47.490307,19.066622,860676,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+75859739,47.464447,19.023036,Kelenföld vasútállomás M (Etele tér),1131,stele,19,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75859476,47.470333,19.053378,Bogdánfy utca - Neumann János utca,1129,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990692,47.517476,19.060115,Váci út - Victor Hugo utca,1303,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990693,47.518349,19.044821,Margitsziget,1304,stele,18,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990690,47.513603,19.048072,Jászai Mari tér,1301,stele,18,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990691,47.51828,19.051704,Szent István park,1302,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+346004316,47.484067,19.059807,860038,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990685,47.473265,19.052653,Budafoki út - Schönherz Kollégium,1106,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347988627,47.509378,19.054753,860800,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+347987537,47.494751,19.060293,862208,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990683,47.476416,19.058994,Petőfi híd - Buda,1104,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990684,47.475984,19.048491,Kőrösy József utca,1105,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990689,47.473243,19.063597,Pázmány Péter sétány - ELTE,1108,stele,13,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990688,47.47713,19.047589,Móricz Zsigmond körtér,1107,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+126952256,47.5133,19.069637,Szondi utca – Bajza utca,0619,stele,0,999,{'icon': {'name': 'vehicle-rental/mol-bubi-empty'}}
+347967473,47.502009,19.084782,860805,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+211924335,47.504227,19.089506,Reiner Frigyes park,1411,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990681,47.47928,19.051489,Gárdonyi tér,1103,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990680,47.481597,19.056816,Műegyetem,1102,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347933002,47.495556,19.050809,862458,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+42990796,47.473454,19.059336,"Műegyetem, Q épület",1115,stele,9,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990793,47.478381,19.059869,Műegyetem rakpart – R épület,1117,stele,7,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122643,47.542735,19.037464,Szőlő utca - Vörösvári út,0312,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+148122765,47.504983,19.058208,Hard Rock Hotel - Nagymező utca,0615,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990678,47.479581,19.066118,Boráros tér,0904,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990799,47.480102,19.057696,Bertalan Lajos utca - Műegyetem rakpart,1114,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990679,47.484504,19.053458,Szent Gellért tér,1101,stele,8,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990797,47.477665,19.057972,Egry József utca,1116,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+211923802,47.50431,19.100343,Egressy út - Stefánia út,1406,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+74880307,47.491647,19.079289,Mátyás tér,0819,stele,4,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347918570,47.48556,19.070529,862317,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+347911142,47.530898,19.075224,860128,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
+126951387,47.509139,19.058315,Nyugati pályaudvar M (Podmaniczky utca),0617,stele,12,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75854498,47.464936,19.033556,Bikás park M,1125,stele,17,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+75854372,47.465117,19.027727,Vahot utca - Wartha Vince utca,1124,stele,5,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990696,47.514491,19.052535,Pannónia utca - Raoul Wallenberg utca,1305,stele,2,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990697,47.518845,19.081321,Széchenyi fürdő,1401,stele,10,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990694,47.4859,19.06948,Üllői út - Ferenc Körút,0902,stele,11,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+42990698,47.50269,19.05488,Podmaniczky tér,0505,stele,3,999,{'icon': {'name': 'vehicle-rental/mol-bubi'}}
+347933943,47.523244,19.038093,860998,BIKE,,1,999,{'icon': {'name': 'vehicle-rental/mol-bubi-floating'}}
