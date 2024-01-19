@@ -16,7 +16,7 @@ The source of the data is the [BKK FUTÁR Utazástervező API](https://bkkfutar.
 - Python 3.11.6
 - Visual Studio Code 1.85.1
 - Jupyter notebook extension v2023.11.1100101639
-- AWS services
+- AWS services: S3, Lambda
 
 # Dependencies
 The python code imports the following libraries:
