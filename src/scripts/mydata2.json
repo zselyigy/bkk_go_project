@@ -155,7 +155,7 @@
             "name": "V\u00e1g\u00e1ny utca-R\u00f3bert K\u00e1roly k\u00f6r\u00fat",
             "code": "1402",
             "type": "stele",
-            "bikes": 4,
+            "bikes": 5,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -274,7 +274,7 @@
             "name": "Haller utca - T\u0171zolt\u00f3 utca",
             "code": "0915",
             "type": "stele",
-            "bikes": 4,
+            "bikes": 2,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -349,7 +349,7 @@
             "name": "Gozsdu udvar",
             "code": "0701",
             "type": "stele",
-            "bikes": 12,
+            "bikes": 13,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -418,20 +418,6 @@
             }
         },
         {
-            "id": "347886092",
-            "lat": 47.50944,
-            "lon": 19.0547,
-            "name": "862449",
-            "code": "BIKE",
-            "bikes": 1,
-            "spaces": 999,
-            "style": {
-                "icon": {
-                    "name": "vehicle-rental/mol-bubi-floating"
-                }
-            }
-        },
-        {
             "id": "42723985",
             "lat": 47.468217,
             "lon": 19.058447,
@@ -453,7 +439,7 @@
             "name": "K\u00e1lvin t\u00e9r",
             "code": "0905",
             "type": "stele",
-            "bikes": 12,
+            "bikes": 11,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -528,7 +514,7 @@
             "name": "Szentl\u00e9lek t\u00e9r H",
             "code": "0307",
             "type": "stele",
-            "bikes": 8,
+            "bikes": 7,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -573,7 +559,7 @@
             "name": "T\u00f6m\u0151 utca - Ill\u00e9s utca",
             "code": "0814",
             "type": "stele",
-            "bikes": 7,
+            "bikes": 6,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -663,7 +649,7 @@
             "name": "P\u00f6tty\u00f6s utca M",
             "code": "0914",
             "type": "stele",
-            "bikes": 12,
+            "bikes": 11,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -741,6 +727,20 @@
             "style": {
                 "icon": {
                     "name": "vehicle-rental/mol-bubi"
+                }
+            }
+        },
+        {
+            "id": "347918199",
+            "lat": 47.486458,
+            "lon": 19.06016,
+            "name": "860697",
+            "code": "BIKE",
+            "bikes": 1,
+            "spaces": 999,
+            "style": {
+                "icon": {
+                    "name": "vehicle-rental/mol-bubi-floating"
                 }
             }
         },
@@ -980,20 +980,6 @@
             "style": {
                 "icon": {
                     "name": "vehicle-rental/mol-bubi"
-                }
-            }
-        },
-        {
-            "id": "347916683",
-            "lat": 47.494142,
-            "lon": 19.067813,
-            "name": "860805",
-            "code": "BIKE",
-            "bikes": 1,
-            "spaces": 999,
-            "style": {
-                "icon": {
-                    "name": "vehicle-rental/mol-bubi-floating"
                 }
             }
         },
@@ -1356,20 +1342,6 @@
             }
         },
         {
-            "id": "347917090",
-            "lat": 47.486458,
-            "lon": 19.06016,
-            "name": "860697",
-            "code": "BIKE",
-            "bikes": 1,
-            "spaces": 999,
-            "style": {
-                "icon": {
-                    "name": "vehicle-rental/mol-bubi-floating"
-                }
-            }
-        },
-        {
             "id": "42990625",
             "lat": 47.491297,
             "lon": 19.058243,
@@ -1391,7 +1363,7 @@
             "name": "Csalog\u00e1ny utca - Medve utca",
             "code": "0211",
             "type": "stele",
-            "bikes": 18,
+            "bikes": 17,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -1517,27 +1489,13 @@
             }
         },
         {
-            "id": "347917752",
-            "lat": 47.489609,
-            "lon": 19.062156,
-            "name": "861876",
-            "code": "BIKE",
-            "bikes": 1,
-            "spaces": 999,
-            "style": {
-                "icon": {
-                    "name": "vehicle-rental/mol-bubi-floating"
-                }
-            }
-        },
-        {
             "id": "42990730",
             "lat": 47.485668,
             "lon": 19.07468,
             "name": "Corvin s\u00e9t\u00e1ny",
             "code": "0812",
             "type": "stele",
-            "bikes": 9,
+            "bikes": 8,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -1597,7 +1555,7 @@
             "name": "Szalay utca - Falk Miksa utca",
             "code": "0502",
             "type": "stele",
-            "bikes": 7,
+            "bikes": 8,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -1777,25 +1735,11 @@
             "name": "K\u00e1lv\u00e1ria t\u00e9r",
             "code": "0821",
             "type": "stele",
-            "bikes": 3,
+            "bikes": 4,
             "spaces": 999,
             "style": {
                 "icon": {
                     "name": "vehicle-rental/mol-bubi"
-                }
-            }
-        },
-        {
-            "id": "347917502",
-            "lat": 47.48556,
-            "lon": 19.070529,
-            "name": "862317",
-            "code": "BIKE",
-            "bikes": 1,
-            "spaces": 999,
-            "style": {
-                "icon": {
-                    "name": "vehicle-rental/mol-bubi-floating"
                 }
             }
         },
@@ -1905,6 +1849,20 @@
             }
         },
         {
+            "id": "347918837",
+            "lat": 47.489453,
+            "lon": 19.062051,
+            "name": "861876",
+            "code": "BIKE",
+            "bikes": 1,
+            "spaces": 999,
+            "style": {
+                "icon": {
+                    "name": "vehicle-rental/mol-bubi-floating"
+                }
+            }
+        },
+        {
             "id": "42990643",
             "lat": 47.507918,
             "lon": 19.084164,
@@ -1926,7 +1884,7 @@
             "name": "Haj\u00f3s Alfr\u00e9d Uszoda",
             "code": "1308",
             "type": "stele",
-            "bikes": 20,
+            "bikes": 19,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -2042,6 +2000,20 @@
             "lat": 47.508364,
             "lon": 19.059831,
             "name": "860450",
+            "code": "BIKE",
+            "bikes": 1,
+            "spaces": 999,
+            "style": {
+                "icon": {
+                    "name": "vehicle-rental/mol-bubi-floating"
+                }
+            }
+        },
+        {
+            "id": "347917851",
+            "lat": 47.494156,
+            "lon": 19.067742,
+            "name": "860805",
             "code": "BIKE",
             "bikes": 1,
             "spaces": 999,
@@ -2364,13 +2336,27 @@
             }
         },
         {
+            "id": "347919221",
+            "lat": 47.47452,
+            "lon": 19.03824,
+            "name": "862304",
+            "code": "BIKE",
+            "bikes": 1,
+            "spaces": 999,
+            "style": {
+                "icon": {
+                    "name": "vehicle-rental/mol-bubi-floating"
+                }
+            }
+        },
+        {
             "id": "75859615",
             "lat": 47.467438,
             "lon": 19.043823,
             "name": "Hauszmann Alajos utca - Feh\u00e9rv\u00e1ri \u00fat",
             "code": "1130",
             "type": "stele",
-            "bikes": 12,
+            "bikes": 11,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -2400,7 +2386,7 @@
             "name": "R\u00e1day utca - Kinizsi utca",
             "code": "0911",
             "type": "stele",
-            "bikes": 10,
+            "bikes": 11,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -2475,7 +2461,7 @@
             "name": "Keleti p\u00e1lyaudvar",
             "code": "0808",
             "type": "stele",
-            "bikes": 10,
+            "bikes": 9,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -2725,7 +2711,7 @@
             "name": "Gyulai P\u00e1l utca - R\u00e1k\u00f3czi \u00fat",
             "code": "0801",
             "type": "stele",
-            "bikes": 28,
+            "bikes": 26,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -2889,7 +2875,7 @@
             "name": "R\u00e1k\u00f3czi t\u00e9r",
             "code": "0804",
             "type": "stele",
-            "bikes": 18,
+            "bikes": 17,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -2919,7 +2905,7 @@
             "name": "Br\u00f3dy S\u00e1ndor utca - M\u00fazeum k\u00f6r\u00fat",
             "code": "0805",
             "type": "stele",
-            "bikes": 10,
+            "bikes": 11,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -3125,7 +3111,7 @@
             "name": "P\u00e1zm\u00e1ny P\u00e9ter s\u00e9t\u00e1ny - ELTE",
             "code": "1108",
             "type": "stele",
-            "bikes": 9,
+            "bikes": 10,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -3140,7 +3126,7 @@
             "name": "M\u00f3ricz Zsigmond k\u00f6rt\u00e9r",
             "code": "1107",
             "type": "stele",
-            "bikes": 10,
+            "bikes": 9,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -3289,7 +3275,7 @@
             "name": "Bor\u00e1ros t\u00e9r",
             "code": "0904",
             "type": "stele",
-            "bikes": 13,
+            "bikes": 12,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -3373,6 +3359,20 @@
             }
         },
         {
+            "id": "347918570",
+            "lat": 47.48556,
+            "lon": 19.070529,
+            "name": "862317",
+            "code": "BIKE",
+            "bikes": 1,
+            "spaces": 999,
+            "style": {
+                "icon": {
+                    "name": "vehicle-rental/mol-bubi-floating"
+                }
+            }
+        },
+        {
             "id": "347911142",
             "lat": 47.530898,
             "lon": 19.075224,
@@ -3422,7 +3422,7 @@
             "name": "Bik\u00e1s park M",
             "code": "1125",
             "type": "stele",
-            "bikes": 15,
+            "bikes": 16,
             "spaces": 999,
             "style": {
                 "icon": {
@@ -3482,7 +3482,7 @@
             "name": "\u00dcll\u0151i \u00fat - Ferenc K\u00f6r\u00fat",
             "code": "0902",
             "type": "stele",
-            "bikes": 11,
+            "bikes": 10,
             "spaces": 999,
             "style": {
                 "icon": {
